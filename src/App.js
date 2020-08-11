@@ -14,7 +14,6 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             You have successfully logged in.
-            {aws_exports}
           </p>
         </header>
       </div>
